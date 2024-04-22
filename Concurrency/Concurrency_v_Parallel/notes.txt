@@ -1,0 +1,8 @@
+concurrency is not parallelism.
+
+Concurrency is the framework/architecture for creating parallelism
+
+parallelism is the execution of multiple things simultaneously
+
+If you design something to be concurrent, then it has the chance to be executed in parallel. The chance is determined by how many cores?
+
